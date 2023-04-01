@@ -543,7 +543,7 @@ audio {
 .js-scroll {
   opacity: 0;
   transform: translate3d(40px, 0, 0);
-  transition: .4s;
+  transition: .6s;
 }
 
 .js-scroll.anima-ativo {
